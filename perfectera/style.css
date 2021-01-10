@@ -380,7 +380,7 @@ nav .menu-text a:hover {
         height: 0;
         }
         .triangle{
-        border-width: 10em 10em 0 0;
+        visibility: hidden;
         }
         #info-box a {
         right: 20px;
